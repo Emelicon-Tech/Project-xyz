@@ -1,2 +1,3 @@
 # Project-xyz
-This Repo contains Python Code
+This Repo consist of Python Code
+## Lets use resposively
